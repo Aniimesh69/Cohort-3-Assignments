@@ -27,7 +27,7 @@ class Calculator {
     }
   
     getResult(){
-          return this.result;
+        return this.result;
     }
     calculate(inputExpression) {
       const temp = inputExpression;
