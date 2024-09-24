@@ -43,5 +43,4 @@ function call(t1, t2, t3) {
         });
 }
 
-console.log(call(5, 8, 3) + calculateTime(5, 8, 3));
 module.exports = calculateTime;
