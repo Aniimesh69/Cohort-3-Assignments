@@ -1,0 +1,54 @@
+#container{
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: gainsboro;
+    padding: 10px;
+}
+
+#Red{
+    background-color: red;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#Yellow{
+    background-color: yellow;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#Black{
+    background-color: Black;
+    color: White;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#Green{
+    background-color: Green;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#Purple{
+    background-color: purple;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#Orange{
+    background-color: orange;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+#Default{
+    background-color: white;
+    margin-left: 5px;
+    margin-right: 5px;
+}
