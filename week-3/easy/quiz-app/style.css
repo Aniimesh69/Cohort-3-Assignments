@@ -24,6 +24,7 @@ body {
 }
 
 #options {
+    text-align: left;
     list-style: none;
     padding: 0;
     margin: 0;
